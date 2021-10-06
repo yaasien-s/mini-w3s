@@ -22,7 +22,7 @@
   }
 
   body{
-    background: linear-gradient(-45deg,grey,rgb(151, 10, 10),rgb(177, 85, 9));
+    background: linear-gradient(-45deg,rgb(179, 179, 179),rgb(207, 36, 36),rgb(245, 148, 3));
     background-size: 400% 400%;
     animation: Gradient 10s ease infinite;
     background-repeat: no-repeat;
@@ -67,3 +67,35 @@
  p{
      text-align: center;
  }
+
+.vid1{
+    text-align: center;
+}
+
+legend{
+    text-align: center;
+}
+*{
+    text-align: center;
+}
+.code {
+    float: left;
+  
+    padding: 10px;
+    padding-left: 50px;
+  }
+  
+  .code {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .code1 {
+    float: right;
+    padding: 10px;
+    padding-right: 50px;
+   
+  }
+
+  

@@ -99,3 +99,38 @@ legend{
   }
 
   
+.css {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.cheese:hover p {
+  display: block;
+}
+
+.eggs {
+  display: none;
+  background-color: yellow;
+  padding: 20px;
+}
+
+.cheese {
+  text-align: center;
+}
+
+ol {
+  text-align: center;
+}
+
+.boxx {
+  border-style: groove;
+}
+
+.review {
+  color: #fffaf0;
+  font-size: 250%;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-transform: uppercase;
+}
